@@ -7,8 +7,8 @@ import {
 } from "react-router-dom";
 
 import './index.css'
-import {Contact} from './Contact.jsx';
-import {Calc} from './Calc.jsx';
+import { Contact } from './Contact.jsx';
+import { Calc } from './Calc.jsx';
 
 const router = createBrowserRouter([
   {
